@@ -68,7 +68,7 @@ const dataArray = [
     <div class="mx-auto container">
       <div class="flex flex-col justify-center mt-32 max-md:mt-10 max-md:px-5">
         <div class="flex justify-center items-center mx-auto w-full">
-          <img src="@/assets/images/home/clarifio.png" class="max-md:w-12" />
+          <img src="/assets/images/home/clarifio.png" class="max-md:w-12" />
           <h1 class="text-4xl font-[800] font-primary text-primary">&nbsp; Why Clarifio</h1>
         </div>
         <p class="w-8/12 font-primary text-[#231F20] text-[18px]   font-[500] text-center mx-auto  py-2 max-md:w-full max-md:mt-3">The most comprehensive email verification service with 99%+ verification accuracy. Email list verification, bulk email verifier, email verifier API & automated email verification in one place.</p>

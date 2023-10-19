@@ -47,7 +47,7 @@ const langToggle = () => {
           class="py-5 max-lg:w-full max-lg:flex max-lg:flex-row max-lg:justify-between max-lg:items-center"
         >
           <router-link to="/"
-            ><img src="@/assets/images/logo.png" class="h-12 w-36 cursor-pointer" alt=""
+            ><img src="/assets/images/logo.png" class="h-12 w-36 cursor-pointer" alt=""
           /></router-link>
           <div class="lg:hidden" @click="toggleNav">
             <button class="navbar-burger flex items-center text-blue-600 p-3">
@@ -215,7 +215,7 @@ const langToggle = () => {
                 >
                   <a
                     class="my-1 block border-b border-gray-100 py-1 font-base lg:mx-4 text-primary hover:text-hover md:mx-2"
-                    
+
                     @click="handleLocation('en')"
                     >English</a
                   >
@@ -259,7 +259,7 @@ const langToggle = () => {
     >
       <div class="flex items-center mb-8">
         <a class="mr-auto text-3xl font-bold leading-none" href="#">
-          <img src="@/assets/images/logo.png" class="h-12 w-36 cursor-pointer" alt="" />
+          <img src="/assets/images/logo.png" class="h-12 w-36 cursor-pointer" alt="" />
         </a>
         <button class="navbar-close" @click="toggleNav">
           <svg
@@ -493,7 +493,7 @@ const langToggle = () => {
               </li>
               <li>
                 <a
-                  
+
                   class="font-primary flex items-center w-full p-2 text-gray-900 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
                   @click="handleLocation('pt')"
                 >
@@ -502,7 +502,7 @@ const langToggle = () => {
               </li>
               <li>
                 <a
-                  
+
                   class="font-primary flex items-center w-full p-2 text-gray-900 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
                   @click="handleLocation('es')"
                 >

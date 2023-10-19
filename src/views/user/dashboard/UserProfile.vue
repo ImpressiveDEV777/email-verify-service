@@ -168,7 +168,7 @@
             </div>
             <div class="flex">
               <img
-                src="@/assets/images/users/female-64.png"
+                src="/assets/images/users/female-64.png"
                 alt="female"
                 class="pr-5 h-16"
               />

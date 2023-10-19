@@ -33,7 +33,7 @@
     </div>
     <div class="w-full flex pt-14 pb-2 border-y border-gray-200">
       <div class="w-3/12 mr-8 pt-6">
-        <img src="../../../assets/images/logo.png" class="mb-8 mx-auto" />
+        <img src="/assets/images/logo.png" class="mb-8 mx-auto" />
         <div class="text-center">
           <p class="text-[28px] font-primary text-primary">Clarifio.com</p>
           <p class="text-[22px] font-primary text-primary">is Active</p>

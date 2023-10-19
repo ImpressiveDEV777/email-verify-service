@@ -1,9 +1,9 @@
 <template>
   <header
-    class="bg-[url('@/assets/images/contact/faq-header.png')] w-full bg-no-repeat bg-center bg-cover px-5 pt-16 pb-24 mb-36 max-md:px-5 max-md:pb-5"
+    class="bg-[url('/assets/images/contact/faq-header.png')] w-full bg-no-repeat bg-center bg-cover px-5 pt-16 pb-24 mb-36 max-md:px-5 max-md:pb-5"
   >
     <div class="w-1/2 mx-auto text-center">
-      <img src="../../assets/images/contact/quotion.png" class="inline-block mb-16" />
+      <img src="/assets/images/contact/quotion.png" class="inline-block mb-16" />
       <p class="text-white font-primary text-[22px] leading-5 pb-1.5 mb-3">Support</p>
       <h1 class="text-white font-primary text-[48px] font-semibold mb-6">
         Everything you need to know

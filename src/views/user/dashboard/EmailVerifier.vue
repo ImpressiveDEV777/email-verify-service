@@ -119,8 +119,8 @@
                 <p>Uploading now &nbsp; &nbsp; <span>id:</span> 3245345345</p>
               </div>
               <div class="w-2/12 flex">
-                <img src="../../../assets/images/dashboard/pause.png" class="mr-2" />
-                <img src="../../../assets/images/dashboard/stop.png" />
+                <img src="/assets/images/dashboard/pause.png" class="mr-2" />
+                <img src="/assets/images/dashboard/stop.png" />
               </div>
             </div>
             <div class="w-6/12 mx-auto p-5">
@@ -148,7 +148,7 @@
               <p>15min left</p>
               <div class="w-full flex justify-between">
                 <div class="w-6/12 flex items-center">
-                  <img src="../../../assets/images/dashboard/mail_box.png" class="m-5" />
+                  <img src="/assets/images/dashboard/mail_box.png" class="m-5" />
                   <div>
                     <span class="mb-5">11</span>
                     <p
@@ -159,7 +159,7 @@
                   </div>
                 </div>
                 <div class="w-6/12 flex items-center">
-                  <img src="../../../assets/images/dashboard/mail_box.png" class="m-5" />
+                  <img src="/assets/images/dashboard/mail_box.png" class="m-5" />
                   <div>
                     <span>0</span>
                     <p
@@ -188,7 +188,7 @@
               </div>
               <div class="w-2/12 flex">
                 <img
-                  src="../../../assets/images/dashboard/recycle_bin.png"
+                  src="/assets/images/dashboard/recycle_bin.png"
                   class="mr-2 cursor-pointer"
                 />
               </div>
@@ -305,7 +305,7 @@
               </div>
               <div class="w-2/12 flex">
                 <img
-                  src="../../../assets/images/dashboard/recycle_bin.png"
+                  src="/assets/images/dashboard/recycle_bin.png"
                   class="mr-2 cursor-pointer"
                 />
               </div>
@@ -418,7 +418,7 @@
               </div>
               <div class="w-2/12 flex">
                 <img
-                  src="../../../assets/images/dashboard/recycle_bin.png"
+                  src="/assets/images/dashboard/recycle_bin.png"
                   class="mr-2 cursor-pointer"
                 />
               </div>
@@ -602,7 +602,7 @@
             <p>15min left</p>
             <div class="w-full flex justify-between">
               <div class="w-6/12 flex items-center">
-                <img src="../../../assets/images/dashboard/mail_box.png" class="m-5" />
+                <img src="/assets/images/dashboard/mail_box.png" class="m-5" />
                 <div>
                   <span class="mb-5">11</span>
                   <p
@@ -613,7 +613,7 @@
                 </div>
               </div>
               <div class="w-6/12 flex items-center">
-                <img src="../../../assets/images/dashboard/mail_box.png" class="m-5" />
+                <img src="/assets/images/dashboard/mail_box.png" class="m-5" />
                 <div>
                   <span>0</span>
                   <p
@@ -642,7 +642,7 @@
             </div>
             <div class="w-2/12 flex">
               <img
-                src="../../../assets/images/dashboard/recycle_bin.png"
+                src="/assets/images/dashboard/recycle_bin.png"
                 class="mr-2 cursor-pointer"
               />
             </div>
@@ -763,7 +763,7 @@
         </div>
         <div class="w-5/12 pr-12 relative px-16 py-8">
           <img
-            src="../../../assets/images/dashboard/Rectangle_4455.png"
+            src="/assets/images/dashboard/Rectangle_4455.png"
             class="absolute right-0 top-0 w-full -z-1"
           />
           <div class="flex items-center">

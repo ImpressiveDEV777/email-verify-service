@@ -5,7 +5,7 @@
         <div
           class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
         >
-          <img src="../../../assets/images/integration/mailchimp-logomark.png" />
+          <img src="/assets/images/integration/mailchimp-logomark.png" />
         </div>
         <p
           class="font-primary text-primary text-[49.36px] mx-auto leading-[70.5px] font-extrabold mb-9 max-md:bottom-5 max-sm:bottom-0"
@@ -60,7 +60,7 @@
           dashboard then “INTEGRATION” and select “MailChimp” from the side menu.
         </p>
         <img
-          src="../../../assets/images/integration/services/screen1.png"
+          src="/assets/images/integration/services/screen1.png"
           class="mb-16"
         />
         <h1
@@ -73,7 +73,7 @@
           dashboard then “INTEGRATION” and select “MailChimp” from the side menu.
         </p>
         <img
-          src="../../../assets/images/integration/services/screen1.png"
+          src="/assets/images/integration/services/screen1.png"
           class="mb-16"
         />
         <h1
@@ -85,7 +85,7 @@
           Login into your account with your MailChimp credentials.
         </p>
         <img
-          src="../../../assets/images/integration/services/login_authorize.png"
+          src="/assets/images/integration/services/login_authorize.png"
           class="mb-16"
         />
         <h1
@@ -116,7 +116,7 @@
           import, then click on “Import & Validate”.
         </p>
         <img
-          src="../../../assets/images/integration/services/screen1.png"
+          src="/assets/images/integration/services/screen1.png"
           class="mb-16"
         />
         <h1
@@ -129,7 +129,7 @@
           will be updated automatically.”
         </p>
         <img
-          src="../../../assets/images/integration/services/screen1.png"
+          src="/assets/images/integration/services/screen1.png"
           class="mb-16"
         />
         <h1
@@ -145,7 +145,7 @@
           reached your turn in the queue.
         </p>
         <img
-          src="../../../assets/images/integration/services/screen1.png"
+          src="/assets/images/integration/services/screen1.png"
           class="mb-16"
         />
         <h1
@@ -160,7 +160,7 @@
           be notified via email when the validation is done.
         </p>
         <img
-          src="../../../assets/images/integration/services/screen1.png"
+          src="/assets/images/integration/services/screen1.png"
           class="mb-16"
         />
         <h1
@@ -173,7 +173,7 @@
           as those are invalid emails.
         </p>
         <img
-          src="../../../assets/images/integration/services/screen1.png"
+          src="/assets/images/integration/services/screen1.png"
           class="mb-32"
         />
         <h1 class="font-primary text-primary text-4xl font-extrabold leading-[60px] mb-4">
@@ -219,7 +219,7 @@
     <div class="w-full bg-[#FFFFFF] rounded-xl">
       <carousel :items-to-show="6">
         <slide v-for="component in componentsData" :key="component.src">
-          <CarouselItem 
+          <CarouselItem
           :imageSource="component.src"
           :name="component.name" />
 

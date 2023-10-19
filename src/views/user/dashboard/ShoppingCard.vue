@@ -32,7 +32,7 @@
         v-for="product in dataArray"
       >
         <img
-          src="../../../assets/images/dashboard/1.png"
+          src="/assets/images/dashboard/1.png"
           class="border border-gray-200 rounded-lg"
         />
         <div class="w-full pl-10">

@@ -4,7 +4,7 @@
       <div class="flex px-2 flex-col justify-center self-stretch min-h-screen">
         <div class="flex max-w-[100%] w-[360px] flex-col items-start mx-auto my-6">
           <router-link to="/">
-            <img src="@/assets/images/logo.png" alt="logo" class="mb-20" />
+            <img src="/assets/images/logo.png" alt="logo" class="mb-20" />
           </router-link>
           <!-- Header and form -->
           <h1 class="font-primary text-[22px] font-bold leading-5 pb-3">Log in</h1>
@@ -3447,7 +3447,7 @@
       <div class="px-8 flex flex-col justify-center items-center m-auto">
         <div class="py-16 z-10">
           <img
-            src="@/assets/images/login/Card2.png"
+            src="/assets/images/login/Card2.png"
             alt="logo"
             class="pb-12 w-full max-w-md z-10"
           />

@@ -4,7 +4,7 @@
       <div class="flex flex-col">
         <div class="m-auto mb-[42px]">
           <router-link to="/">
-            <img src="@/assets/images/logo.png" width="138" />
+            <img src="/assets/images/logo.png" width="138" />
           </router-link>
         </div>
         <RouterLink
@@ -379,7 +379,7 @@
             </svg>
           </div>
           <div class="w-[40px] h-[40px] flex items-center justify-center ml-4">
-            <img src="@/assets/images/users/female.png" alt="female" />
+            <img src="/assets/images/users/female.png" alt="female" />
           </div>
         </div>
       </nav>

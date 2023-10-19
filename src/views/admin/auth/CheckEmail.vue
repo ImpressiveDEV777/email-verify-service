@@ -5,7 +5,7 @@
         <div
           class="flex max-w-[100%] w-[360px] flex-col items-center justify-center mx-auto my-6"
         >
-          <img src="@/assets/images/logo.png" alt="logo" class="mb-20" />
+          <img src="/assets/images/logo.png" alt="logo" class="mb-20" />
           <!-- Header and form -->
           <div class="mb-6">
             <svg
@@ -3447,7 +3447,7 @@
       <div class="px-8 flex flex-col justify-center items-center m-auto">
         <div class="py-16 z-10">
           <img
-            src="../../../assets/images/login/Card2.png"
+            src="/assets/images/login/Card2.png"
             alt="logo"
             class="pb-12 w-full max-w-md z-10"
           />
