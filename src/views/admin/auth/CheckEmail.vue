@@ -3447,7 +3447,7 @@
       <div class="px-8 flex flex-col justify-center items-center m-auto">
         <div class="py-16 z-10">
           <img
-            src="../../../assets/images/login/Card2.png"
+            src="@/assets/images/login/Card2.png"
             alt="logo"
             class="pb-12 w-full max-w-md z-10"
           />

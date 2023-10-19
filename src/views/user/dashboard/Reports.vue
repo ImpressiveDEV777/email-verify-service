@@ -146,7 +146,7 @@
             </div>
             <div class="w-2/12 flex">
               <img
-                src="../../../assets/images/dashboard/recycle_bin.png"
+                src="@/assets/images/dashboard/recycle_bin.png"
                 class="mr-2 cursor-pointer"
               />
             </div>
@@ -283,7 +283,7 @@
             </div>
             <div class="w-2/12 flex">
               <img
-                src="../../../assets/images/dashboard/recycle_bin.png"
+                src="@/assets/images/dashboard/recycle_bin.png"
                 class="mr-2 cursor-pointer"
               />
             </div>

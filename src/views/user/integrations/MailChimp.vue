@@ -5,7 +5,7 @@
         <div
           class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
         >
-          <img src="../../../assets/images/integration/mailchimp-logomark.png" />
+          <img src="@/assets/images/integration/mailchimp-logomark.png" />
         </div>
         <p
           class="font-primary text-primary text-[49.36px] mx-auto leading-[70.5px] font-extrabold mb-9 max-md:bottom-5 max-sm:bottom-0"

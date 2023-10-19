@@ -423,12 +423,12 @@
     </div>
 
     <img
-      src="../../assets/images/home/pricing/poly1.png"
+      src="@/assets/images/home/pricing/poly1.png"
       class="absolute left-0 bottom-0 max-md:opacity-0 max-2xl:-z-1"
       v-show="props.imageShow"
     />
     <img
-      src="../../assets/images/home/pricing/poly2.png"
+      src="@/assets/images/home/pricing/poly2.png"
       class="absolute right-0 bottom-[-3%] max-md:opacity-0"
       v-show="props.imageShow"
     />
