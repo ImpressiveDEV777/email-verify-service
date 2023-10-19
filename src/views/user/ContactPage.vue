@@ -1,6 +1,6 @@
 <template>
   <header
-    class="bg-[url('@/assets/images/contact/header_section_bg.png')] w-full bg-no-repeat bg-center bg-cover px-5 pt-16 pb-24 mb-24 max-md:px-5 max-md:pb-5"
+    class="bg-[url('/assets/images/contact/header_section_bg.png')] w-full bg-no-repeat bg-center bg-cover px-5 pt-16 pb-24 mb-24 max-md:px-5 max-md:pb-5"
   >
     <div class="w-1/2 mx-auto text-center">
       <img

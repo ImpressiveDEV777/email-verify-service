@@ -20,7 +20,7 @@ Then, let's install TailwindCSS. Check [Tailwind Nuxt installation guide](https:
 
 ```sh
 # Install tailwind
-npm install -D @nuxtjs/tailwindcss @tailwindcss/forms 
+npm install -D @nuxtjs/tailwindcss @tailwindcss/forms
 
 # Install other required packages
 npm i @mdi/js chart.js numeral
@@ -62,7 +62,7 @@ export default defineNuxtConfig({
     },
   },
   css: [
-    '@/assets/css/main.css',
+    '/assets/css/main.css',
   ]
 })
 ```
@@ -95,14 +95,14 @@ import { darkModeKey, styleKey } from '@/config.js'
 useHead({
   titleTemplate: (titleChunk) => {
     const titleBase = 'Email verification saas platform'
-    
+
     return titleChunk ? `${titleChunk} - ${titleBase}` : titleBase
   }
 })
 
 const styleStore = useStyleStore()
 
-const currentStyle = typeof localStorage !== 'undefined' && localStorage[styleKey] 
+const currentStyle = typeof localStorage !== 'undefined' && localStorage[styleKey]
   ? localStorage[styleKey]
   : 'basic'
 
@@ -137,14 +137,14 @@ export const useMainStore = defineStore('main', {
 
     clients: [
       { id: 19, avatar: "https://avatars.dicebear.com/v2/gridy/Howell-Hand.svg", login: "percy64", name: "Howell Hand", company: "Kiehn-Green", city: "Emelyside", progress: 70, created: "Mar 3, 2021" },
-      { id: 11, avatar: "https://avatars.dicebear.com/v2/gridy/Hope-Howe.svg", login: "dare.concepcion", name: "Hope Howe", company: "Nolan Inc", city: "Paristown", progress: 68, created: "Dec 1, 2021" }, 
+      { id: 11, avatar: "https://avatars.dicebear.com/v2/gridy/Hope-Howe.svg", login: "dare.concepcion", name: "Hope Howe", company: "Nolan Inc", city: "Paristown", progress: 68, created: "Dec 1, 2021" },
       { id: 32, avatar: "https://avatars.dicebear.com/v2/gridy/Nelson-Jerde.svg", login: "geovanni.kessler", name: "Nelson Jerde", company: "Nitzsche LLC", city: "Jailynbury", progress: 49, created: "May 18, 2021"},
       { id: 22, avatar: "https://avatars.dicebear.com/v2/gridy/Kim-Weimann.svg", login: "macejkovic.dashawn", name: "Kim Weimann", company: "Brown-Lueilwitz", city: "New Emie", progress: 38, created: "May 4, 2021" }
     ],
     history: [
       { amount: 375.53, name: "Home Loan Account", date: "3 days ago", type: "deposit", business: "Turcotte" },
-      { amount: 470.26, name: "Savings Account", date: "3 days ago", type: "payment", business: "Murazik - Graham" }, 
-      { amount: 971.34, name: "Checking Account", date: "5 days ago", type: "invoice", business: "Fahey - Keebler" }, 
+      { amount: 470.26, name: "Savings Account", date: "3 days ago", type: "payment", business: "Murazik - Graham" },
+      { amount: 971.34, name: "Checking Account", date: "5 days ago", type: "invoice", business: "Fahey - Keebler" },
       { amount: 374.63, name: "Auto Loan Account", date: "7 days ago", type: "withdrawal", business: "Collier - Hintz" }
     ]
   }),
@@ -182,7 +182,7 @@ These pages will then be available under `/` and `/dashboard` url paths.
 
 Copy `views/LoginView.vue` to `pages/index.vue`
 
-Then, wrap the entire template with `<div>` and replace `<LayoutGuest>` with `<NuxtLayout>` 
+Then, wrap the entire template with `<div>` and replace `<LayoutGuest>` with `<NuxtLayout>`
 
 **Why we need a div wrapper?** If you use `<NuxtLayout>` within your pages, make sure it is not the root element (or disable layout/page transitions) &mdash; [Info](https://v3.nuxtjs.org/guide/directory-structure/layouts#overriding-a-layout-on-a-per-page-basis)
 
@@ -205,7 +205,7 @@ Then, wrap the entire template with `<div>` and replace `<LayoutGuest>` with `<N
 
 Copy `views/HomeView.vue` to `pages/dashboard.vue`
 
-Then, wrap the entire template with `<div>` and replace `<LayoutGuest>` with `<NuxtLayout>` with a `name` prop. 
+Then, wrap the entire template with `<div>` and replace `<LayoutGuest>` with `<NuxtLayout>` with a `name` prop.
 
 ```vue
 <script setup>
