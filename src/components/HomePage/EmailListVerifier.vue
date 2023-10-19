@@ -1,18 +1,18 @@
 <template>
   <section class="relative">
-    <img src="@/assets/images/home/email-list/poly.png" class="absolute left-0 top-0" />
+    <img src="/assets/images/home/email-list/poly.png" class="absolute left-0 top-0" />
     <div class="container mx-auto">
       <div
         class="bg-contain justify-between relative flex flex-wrap mt-24 py-14 max-md:mt-10"
       >
         <div class="lg:w-7/12 justify-center md:w-full sm:w-full">
-          <img src="@/assets/images/home/email-list/image-877.png" class="z-10" />
+          <img src="/assets/images/home/email-list/image-877.png" class="z-10" />
         </div>
         <div class="lg:w-5/12 prose font-primary max-md:w-full max-md:px-5 z-10">
           <div class="mx-auto pl-14 w-full justify-center max-md:px-0">
             <div class="w-full flex items-center">
               <img
-                src="@/assets/images/home/clarifio.png"
+                src="/assets/images/home/clarifio.png"
                 class="max-md:w-14 max-md:mt-20 max-md:mb-2"
               />
             </div>

@@ -4,7 +4,7 @@
   >
     <div class="w-1/2 mx-auto text-center">
       <img
-        src="@/assets/images/contact/phone_image.png"
+        src="/assets/images/contact/phone_image.png"
         class="inline-block mb-16"
       />
       <p class="text-white font-primary text-[22px] leading-5 pb-1.5 mb-3">
@@ -49,11 +49,11 @@
   <section class="relative">
     <div class="container mx-auto max-xl:max-w-[100%] max-xl:px-5">
       <img
-        src="@/assets/images/contact/Polygon13.png"
+        src="/assets/images/contact/Polygon13.png"
         class="absolute left-0 top-0 z-[-2]"
       />
       <img
-        src="@/assets/images/contact/Polygon10.png"
+        src="/assets/images/contact/Polygon10.png"
         class="absolute right-0 top-5 z-[-1]"
       />
       <div class="w-6/12 prose mx-auto text-center mb-44">
@@ -216,13 +216,13 @@
           Chat to our friendly team.
         </p>
         <img
-          src="@/assets/images/contact/banner.png"
+          src="/assets/images/contact/banner.png"
           class="w-full mb-24"
         />
         <div class="flex flex-row flex-wrap justify-between px-28 mb-40">
           <div class="p-5 w-3/12 text-center bg-[#F9FAFB]">
             <img
-              src="@/assets/images/contact/f-chat.png"
+              src="/assets/images/contact/f-chat.png"
               class="mb-14 inline-block"
             />
             <p class="font-primary text-primary text-xl font-semibold mb-2">
@@ -239,7 +239,7 @@
           </div>
           <div class="p-5 w-3/12 text-center bg-[#F9FAFB]">
             <img
-              src="@/assets/images/contact/f-location.png"
+              src="/assets/images/contact/f-location.png"
               class="mb-14 inline-block"
             />
             <p class="font-primary text-primary text-xl font-semibold mb-2">
@@ -256,7 +256,7 @@
           </div>
           <div class="p-5 w-3/12 text-center bg-[#F9FAFB]">
             <img
-              src="@/assets/images/contact/f-phone.png"
+              src="/assets/images/contact/f-phone.png"
               class="mb-14 inline-block"
             />
             <p class="font-primary text-primary text-xl font-semibold mb-2">
@@ -283,7 +283,7 @@
         <div class="flex flex-row flex-wrap justify-between px-28 mt-14 mb-14">
           <div class="p-5 w-3/12 text-center">
             <img
-              src="@/assets/images/contact/marker-pin-02.png"
+              src="/assets/images/contact/marker-pin-02.png"
               class="mb-14 inline-block"
             />
             <p class="font-primary text-primary text-xl font-semibold mb-2">
@@ -300,7 +300,7 @@
           </div>
           <div class="p-5 w-3/12 text-center">
             <img
-              src="@/assets/images/contact/marker-pin-02.png"
+              src="/assets/images/contact/marker-pin-02.png"
               class="mb-14 inline-block"
             />
             <p class="font-primary text-primary text-xl font-semibold mb-2">
@@ -317,7 +317,7 @@
           </div>
           <div class="p-5 w-3/12 text-center">
             <img
-              src="@/assets/images/contact/marker-pin-02.png"
+              src="/assets/images/contact/marker-pin-02.png"
               class="mb-14 inline-block"
             />
             <p class="font-primary text-primary text-xl font-semibold mb-2">

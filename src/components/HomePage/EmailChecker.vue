@@ -6,7 +6,7 @@
           <div class="mx-auto w-9/12 max-md:w-full max-md:px-5 justify-center sm:w-full">
             <div class="w-full flex items-center pl-8 mb-5">
               <img
-                src="@/assets/images/home/email-checker/email-check.png"
+                src="/assets/images/home/email-checker/email-check.png"
                 class="my-8 mr-2.5 max-md:my-0"
               />
               <span class="text-blue font-bold">EMAIL CHECKER</span>
@@ -26,15 +26,15 @@
         </div>
         <div class="lg:w-6/12 flex justify-center relative max-md:w-full max-md:mx-0">
           <img
-            src="@/assets/images/home/email-checker/board1.png"
+            src="/assets/images/home/email-checker/board1.png"
             class="absolute h-full right-1 max-md:w-full max-md:invisible max-md:left-auto max-md:right-auto"
           />
           <img
-            src="@/assets/images/home/email-checker/board2.png"
+            src="/assets/images/home/email-checker/board2.png"
             class="invisible absolute max-md:w-full max-w-lg left-[8%] sm:visible max-md:left-auto max-md:right-auto"
           />
           <img
-            src="@/assets/images/home/email-checker/table.png"
+            src="/assets/images/home/email-checker/table.png"
             class="z-10 max-w-lg ml-30 mt-3 max-md:w-full max-md:w-full max-md:ml-0 max-md:left-auto max-md:right-auto"
           />
         </div>

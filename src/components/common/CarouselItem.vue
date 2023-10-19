@@ -2,15 +2,15 @@
   <div class="w-full relative bg-[#FFFFFF] border rounded-xl max-md:p-5">
     <div class="text-center">
       <img
-        src="@/assets/images/home/review/quot1.png"
+        src="/assets/images/home/review/quot1.png"
         class="absolute top-[11%] left-[4%] max-md:top-1 max-md:left-1 max-md:w-5 max-xl:w-8"
       />
       <img
-        src="@/assets/images/home/review/Comma.png"
+        src="/assets/images/home/review/Comma.png"
         class="absolute opacity-10 left-[50%] top-[18%] translate-x-[-50%]"
       />
       <img
-        src="@/assets/images/home/review/quot2.png"
+        src="/assets/images/home/review/quot2.png"
         class="absolute top-[11%] right-[4%] max-md:right-1 max-md:top-1 max-md:w-5 max-xl:w-8"
       />
       <div class="w-10/12 mx-auto my-16 max-md:w-full max-md:mx-0 max-md:my-0">
@@ -20,7 +20,7 @@
           Love the simplicity of the service and the prompt customer support. We can't
           imagine working without it.
         </p>
-        <img src="@/assets/images/home/review/avatar.png" class="mx-auto my-7" />
+        <img src="/assets/images/home/review/avatar.png" class="mx-auto my-7" />
         <p class="font-primary font-[600] text-[#231F20] text-[16.475px] text-center">
           Kelly Williams
         </p>

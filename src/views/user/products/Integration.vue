@@ -17,7 +17,7 @@
           </div>
         </div>
         <div class="lg:w-1/2 justify-center max-md:mt-5">
-          <img src="@/assets/images/integration/group-logo.png" class="w-full" />
+          <img src="/assets/images/integration/group-logo.png" class="w-full" />
         </div>
       </div>
     </div>
@@ -27,7 +27,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/zapier-logomark.png" />
+            <img src="/assets/images/integration/zapier-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -39,7 +39,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/make-logomark.png" />
+            <img src="/assets/images/integration/make-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -52,7 +52,7 @@
             <div
               class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
             >
-              <img src="@/assets/images/integration/mailchimp-logomark.png" />
+              <img src="/assets/images/integration/mailchimp-logomark.png" />
             </div>
             <p
               class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -65,7 +65,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/aweber-logomark.png" />
+            <img src="/assets/images/integration/aweber-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -77,7 +77,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/mailgun-logomark.png" />
+            <img src="/assets/images/integration/mailgun-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -89,7 +89,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/sendgrid-logomark.png" />
+            <img src="/assets/images/integration/sendgrid-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -101,7 +101,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/campaignmonitor-logomark.png" />
+            <img src="/assets/images/integration/campaignmonitor-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -113,7 +113,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/hubspot-logomark.png" />
+            <img src="/assets/images/integration/hubspot-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -125,7 +125,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/mailerlite-logomark.png" />
+            <img src="/assets/images/integration/mailerlite-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -137,7 +137,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/constantcontact-logomark.png" />
+            <img src="/assets/images/integration/constantcontact-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -149,7 +149,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/verticalresponse-logomark.png" />
+            <img src="/assets/images/integration/verticalresponse-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -161,7 +161,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/moosend-logomark.png" />
+            <img src="/assets/images/integration/moosend-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -173,7 +173,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/mailjet-logomark.png" />
+            <img src="/assets/images/integration/mailjet-logomark.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"
@@ -185,7 +185,7 @@
           <div
             class="bg-white flex items-center justify-center mx-auto rounded-full w-[184px] h-[184px] shadow-2xl mb-[22.82px]"
           >
-            <img src="@/assets/images/integration/icontact-logomark1.png" />
+            <img src="/assets/images/integration/icontact-logomark1.png" />
           </div>
           <p
             class="font-primary text-primary text-[30px] mx-auto leading-10 font-extrabold max-md:bottom-5 max-sm:bottom-0"

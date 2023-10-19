@@ -3,7 +3,7 @@
     class="my-2 mb-11 max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 max-xl:m-1"
   >
     <div class="flex justify-center mt-8">
-      <img class="rounded-t-lg" src="@/assets/images/home/services.png" alt="" />
+      <img class="rounded-t-lg" src="/assets/images/home/services.png" alt="" />
     </div>
     <div class="p-1">
       <h5

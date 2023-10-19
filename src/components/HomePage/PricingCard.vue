@@ -38,7 +38,7 @@
       <a
         class="text-sm text-primary font-primary flex items-center font-bold leading-10 cursor-pointer"
         >More Details
-        <img src="@/assets/images/home/pricing/r-arrow.png" class="h-1/2"
+        <img src="/assets/images/home/pricing/r-arrow.png" class="h-1/2"
       /></a>
       <router-link to="/user/buy-credits-detail">
         <button class="py-2 px-4 w-50 bg-[#2078BE] text-white rounded-full font-medium">

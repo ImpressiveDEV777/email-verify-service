@@ -364,7 +364,7 @@
         >
         We designed the Email Verifier to be as thorough as possible, with validations made at multiple levels: format, domain information, the response of the email servers, and comparison with our unique base of professional email addresses.
         </p>
-        <img src="@/assets/images/email-verifier/5.png" alt="" class="w-full" />
+        <img src="/assets/images/email-verifier/5.png" alt="" class="w-full" />
         <button
           class="bg-[#E24949] text-white text-[21px] rounded-lg font-primary py-2 sm:py-5 px-11 my-8"
         >
@@ -383,7 +383,7 @@
         class="flex max-lg:flex-col-reverse max-lg:mb-5 justify-between container"
       >
         <img
-          src="@/assets/images/email-verifier/1.png"
+          src="/assets/images/email-verifier/1.png"
           alt=""
           class="w-full lg:w-1/2"
         />
@@ -428,7 +428,7 @@
           </div>
         </div>
         <img
-          src="@/assets/images/email-verifier/3.png"
+          src="/assets/images/email-verifier/3.png"
           alt=""
           class="w-full lg:w-1/2"
         />
@@ -437,7 +437,7 @@
         class="flex max-lg:flex-col-reverse max-lg:mb-5 justify-between container my-5 sm:my-10"
       >
         <img
-          src="@/assets/images/email-verifier/4.png"
+          src="/assets/images/email-verifier/4.png"
           alt=""
           class="w-full lg:w-1/2"
         />
@@ -634,7 +634,7 @@
           </p>
         </div>
         <img
-          src="@/assets/images/email-verifier/2.png"
+          src="/assets/images/email-verifier/2.png"
           alt=""
           class="w-full lg:w-2/5 px-3 lg:pl-[120px]"
         />
@@ -672,7 +672,7 @@
             <h4
               class="text-[#101828] font-primary text-[18px] font-medium pb-2"
             >
-            What is the purpose of an email verifier? 
+            What is the purpose of an email verifier?
             </h4>
             <p class="text-[#475467] font-primary text-[16px]">
               An email verifier, or email checker, is a tool to validate that an email address exists and can receive emails. Verifying is important before contacting new recipients to avoid bounces and protect your sender's reputation.

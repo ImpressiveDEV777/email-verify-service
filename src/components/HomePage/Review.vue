@@ -62,7 +62,7 @@
             </svg> -->
           </div>
           <div class="flex flex-row justify-center">
-            <img src="@/assets/images/home/review/review.png" />
+            <img src="/assets/images/home/review/review.png" />
           </div>
           <!-- <Carousel /> -->
         </div>

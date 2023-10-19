@@ -5,24 +5,24 @@
       <div class="flex flex-wrap mt-28 max-md:mt-30 max-md:px-5">
         <div class="w-full flex items-center pl-9 mb-7 invisible max-md:visible">
             <img
-              src="@/assets/images/home/domain-group/domain-checker.png"
+              src="/assets/images/home/domain-group/domain-checker.png"
               class="my-0"
             />
             <span class="text-purple font-bold">DOMAIN CHECKER</span>
         </div>
         <div class="lg:w-7/12 relative flex max-md:w-full">
           <img
-            src="@/assets/images/home/domain-group/dash.png"
+            src="/assets/images/home/domain-group/dash.png"
             class="w-11/12 h-11/12 z-10 max-md:w-full"
             alt=""
           />
           <img
-            src="@/assets/images/home/domain-group/Polygon-7.png"
+            src="/assets/images/home/domain-group/Polygon-7.png"
             class="absolute right-10 max-md:w-full"
             alt=""
           />
           <img
-            src="@/assets/images/home/domain-group/Polygon-8.png"
+            src="/assets/images/home/domain-group/Polygon-8.png"
             class="absolute right-12 max-md:w-full"
             alt=""
           />
@@ -30,7 +30,7 @@
         <div class="lg:w-5/12 prose font-primary md:w-full  max-md:mb-5 max-md:mt-0">
           <div class="w-full flex items-center pl-9 mb-7 max-md:invisible">
             <img
-              src="@/assets/images/home/domain-group/domain-checker.png"
+              src="/assets/images/home/domain-group/domain-checker.png"
               class="my-0"
             />
             <span class="text-purple font-bold">DOMAIN CHECKER</span>

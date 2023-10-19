@@ -313,7 +313,7 @@
           </svg>
         </div>
       </div>
-      
+
       <div class="absolute top-[380px]">
         <svg
           width="263"
@@ -602,7 +602,7 @@
         The Domain Search is perfect for quickly finding out who to contact within a company. It surfaces publicly available email addresses with confidence scores, department filters, and detailed sources in just half a second.
         </p>
         <img
-          src="@/assets/images/email-verifier/5.png"
+          src="/assets/images/email-verifier/5.png"
           alt=""
           class="w-full"
         />
@@ -760,7 +760,7 @@
       <div
         class="flex max-lg:flex-col-reverse max-lg:mb-5 justify-between container"
       >
-        <img src="@/assets/images/email-verifier/1.png" alt="" class="w-full lg:w-1/2" />
+        <img src="/assets/images/email-verifier/1.png" alt="" class="w-full lg:w-1/2" />
         <div class="flex flex-col py-12 w-full lg:w-1/2  px-5 lg:pl-[121px] ">
           <h1 class="text-[36px] sm:text-[40px] font-bold">
             Bulk Domain Search
@@ -799,12 +799,12 @@
             </button>
           </div>
         </div>
-        <img src="@/assets/images/email-verifier/3.png" alt="" class="w-full lg:w-1/2" />
+        <img src="/assets/images/email-verifier/3.png" alt="" class="w-full lg:w-1/2" />
       </div>
       <div
         class="flex max-lg:flex-col-reverse max-lg:mb-5 justify-between container my-5 sm:my-10"
       >
-        <img src="@/assets/images/email-verifier/4.png" alt="" class="w-full lg:w-1/2" />
+        <img src="/assets/images/email-verifier/4.png" alt="" class="w-full lg:w-1/2" />
         <div class="flex flex-col py-12 w-full lg:w-1/2  px-5 lg:pl-[121px] ">
           <h1 class="text-[36px] sm:text-[40px] font-bold">Domain Search API</h1>
           <p
@@ -996,7 +996,7 @@
           </p>
         </div>
         <img
-          src="@/assets/images/email-verifier/2.png"
+          src="/assets/images/email-verifier/2.png"
           alt=""
           class="w-full lg:w-2/5 px-3 lg:pl-[120px]"
         />
